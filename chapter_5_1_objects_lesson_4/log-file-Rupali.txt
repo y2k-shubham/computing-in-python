@@ -1,0 +1,7 @@
+2018-08-10 23:26:03	Account created with balance 17000
+2018-08-10 23:26:05	Deposit amount = 1355, updated balance = 18355
+2018-08-10 23:26:05	Balanced checked at 18355
+2018-08-10 23:26:06	Balanced checked at 18355
+2018-08-10 23:26:06	Deposit amount = 4100, updated balance = 22455
+2018-08-10 23:26:08	Balanced checked at 22455
+2018-08-10 23:26:10	Balanced checked at 22455

@@ -1,0 +1,6 @@
+2018-08-10 23:12:06	Account created with balance 0.0
+2018-08-10 23:12:08	Balance set at 12000
+2018-08-10 23:12:10	Balanced checked at 12000
+2018-08-10 23:25:58	Account created with balance 0.0
+2018-08-10 23:26:00	Balance set at 12000
+2018-08-10 23:26:02	Balanced checked at 12000
