@@ -1,0 +1,6 @@
+2018-08-10 23:26:02	Account created with balance 21000
+2018-08-10 23:26:04	Withdraw amount = 3227, updated balance = 17773
+2018-08-10 23:26:04	Withdraw amount = 1771, updated balance = 16002
+2018-08-10 23:26:06	Deposit amount = 9875, updated balance = 25877
+2018-08-10 23:26:08	Withdraw amount = 82000, rejected!
+2018-08-10 23:26:09	Balanced checked at 25877
